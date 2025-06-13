@@ -26,7 +26,7 @@ The implemented RAG pipeline follows these steps:
 
 1️⃣ **Clone the Repository**
 ```bash
-git clone https://github.com/theserenecoder/MultiModel_RAG](https://github.com/arunak1998/multimodelrag
+git clone https://github.com/arunak1998/multimodelrag
 ```
 
 2️⃣ **Create a Virtual Environment**
